@@ -1,2 +1,2 @@
 # Curriculum-Vitae
-Un proyecto ocn React
+Un proyecto con React
