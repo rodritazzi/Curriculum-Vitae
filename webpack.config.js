@@ -32,7 +32,6 @@ module.exports = {
         new HtmlWebPackPlugin({
             template: "./public/index.html",
             file: "./index.html"
-        }),
-        new FaviconsWebpackPlugin('./public/icon.jpg'),
+        })
     ]
 }
